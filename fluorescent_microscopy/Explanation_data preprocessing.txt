@@ -1,0 +1,7 @@
+1. Open *.tif in ImageJ
+2. Set Brightness to Maximum
+3. Set Contrast High enough to see edge of specimen
+4. Rotate to make specimen horizontal
+5. Crop to rectangular shape along edges of specimen
+6. Reset brightness and contrast
+7. Save to *.tif (16bit)
